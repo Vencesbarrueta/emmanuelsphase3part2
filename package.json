@@ -1,0 +1,28 @@
+{
+  "name": "emmanuelsphase3part2",
+  "version": "0.0.0",
+  "description": "Command Line Grocery Store",
+  "main": "database.js",
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "database_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vencesbarrueta/emmanuelsphase3part2.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Emmanuel Vencesbarrueta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vencesbarrueta/emmanuelsphase3part2/issues"
+  },
+  "homepage": "https://github.com/Vencesbarrueta/emmanuelsphase3part2#readme"
+}
